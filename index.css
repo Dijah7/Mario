@@ -1,0 +1,63 @@
+body{
+    background-color: DarkRed;
+    padding:0px;
+    margin:0px;
+    
+}
+p{
+    text-align:center;
+    color:black;
+    text-indent:20px;
+    letter-spacing:1px;
+    line-height:1.5;
+}
+img{
+    width:350px;
+    height:450px;
+}
+h1{
+    padding:0px;
+    text-align:center;
+    background-color:Gold;
+    word-spacing:5px;
+    font-family:"Times New Roman", Times, serif;
+    font-size:40px;
+}
+h2{
+    text-align:center;
+    background-color:Gold;
+    font-family:"Times New Roman", Times, serif;
+    font-size:40px;
+    
+}
+.BoxModel{
+    width:200px;
+    border: 15px solid Gold;
+    padding:50px;
+    margin:20px;
+    
+}
+p.tips{
+    text-align: center;
+    width:800px;
+    margin:20px;
+    padding:50px;
+    border: 15px solid MidnightBlue;
+    outline-style:dotted;
+    outline-color:Gold;
+    outline-width:medium;
+    outline-offset:5px;
+    text-transform: uppercase;
+    font-style:oblique;
+    font-weight:bold;
+   
+}
+footer{
+    padding:20px;
+    text-align:center;
+    background-color:Gold;
+    margin:0px;
+}
+h2.tips2{
+    text-shadow:2px 2px 5px DarkRed;
+}
